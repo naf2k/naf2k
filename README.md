@@ -4,7 +4,7 @@
 <h2 align="center"> About Me? </h2>
 
 ...............................................................
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=naf2k)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=naf2k&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ...............................................................
 
 
