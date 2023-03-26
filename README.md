@@ -1,5 +1,9 @@
-### Hi there 👋
-# I'am Muhammad Nafi Nur Malika
+<h3 align="center"> Hi there 👋 </h3>
+<h1 align="center"> I'am Muhammad Nafi Nur Malika </h1>
+
+
+
+
 <!--
 **naf2k/naf2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
