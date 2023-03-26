@@ -1,6 +1,8 @@
 <h3 align="center"> Hi there 👋 </h3>
 <h1 align="center"> I'am Muhammad Nafi Nur Malika </h1>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=naf2k)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
